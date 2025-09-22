@@ -1,0 +1,17 @@
+{
+  "Go Boilerplate with Module Reminder": {
+    "prefix": "boilerplate",
+    "body": [
+      "// TODO: Run `go mod init github.com/aditya-bobate/go-projects/PROJECT_NAME` before running",
+      "",
+      "package main",
+      "",
+      "import \"fmt\"",
+      "",
+      "func main() {",
+      "    fmt.Println(\"Hello, Go Project!\")",
+      "}"
+    ],
+    "description": "Go project boilerplate with module init reminder"
+  }
+}
